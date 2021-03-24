@@ -4,10 +4,15 @@ body{
 	box-shadow: 4px 4px 15px 1px #c21010;
 	font-family: 'Rubik', sans-serif;
 }
+
 a{
 	color:red
 	
 }	
+div{
+	color:white
+}
+
 
 .block1{
 	background: linear-gradient(0deg, #262222, #b83737);
